@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Yagyasaini</h1>
-<h3 align="center">I am a lifelong learner and I am always looking for ways to improve myself.</h3>
+<h3 align="center">Software Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish7860&label=Profile%20views&color=0e75b6&style=flat" alt="ashish7860" /> </p>
 
