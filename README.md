@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish7860&label=Profile%20views&color=0e75b6&style=flat" alt="ashish7860" /> </p>
 
-- 🔭 I’m currently working in **Nagarro as a Associate Software Engineer as a Trainee**
+- 🔭 I’m currently working in **Nagarro as Associate Software Engineer (Trainee) **
 
 - 🌱 I’m currently learning **Spring framework, Spring-Boot, Nodejs etc.**
 
