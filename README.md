@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish7860&label=Profile%20views&color=0e75b6&style=flat" alt="ashish7860" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish7860" alt="ashish7860" /></a> </p>
-
 - 🔭 I’m currently working in **Nagarro as a Associate Software Engineer as a Trainee**
 
 - 🌱 I’m currently learning **Spring framework, Spring-Boot, Nodejs etc.**
